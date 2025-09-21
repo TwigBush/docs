@@ -1,7 +1,8 @@
 ---
 seo:
   title: TwigBush - GNAP Authorization Server for Modern Access Control
-  description: Production-ready implementation of RFC 9635 (GNAP) in Go. Enable secure, key-bound, just-in-time access control for humans and AI agents with TwigBush.
+  description: TwigBush is an early GNAP Authorization Server written in Go. We’re building an open source community to advance secure, key-bound, just-in-time access control for humans and AI agents.
+
 ---
 
 ::u-page-hero
@@ -38,7 +39,7 @@ Enable modern, key-bound, just-in-time access control for humans and AI agents.
 
 ::u-page-section
 #title
-Production-Ready GNAP Implementation
+Open Source GNAP Server
 
 #features
   :::u-page-feature
