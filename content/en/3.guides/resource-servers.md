@@ -1,1 +1,0 @@
-[RFC 9767](https://datatracker.ietf.org/doc/rfc9767/)
