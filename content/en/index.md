@@ -108,3 +108,23 @@ Open Source GNAP Server
   Enable secure access control for AI agents and automation. Support for machine-to-machine authentication with cryptographic key binding.
   :::
 ::
+
+::u-page-section
+#title
+Community
+
+#description
+Join our growing community of developers building secure access control systems with GNAP.
+
+#links
+  :::u-button
+  ---
+  color: primary
+  icon: simple-icons-discord
+  size: xl
+  to: https://discord.gg/Xj6CUYBQ
+  variant: solid
+  ---
+  Join our Discord
+  :::
+::
