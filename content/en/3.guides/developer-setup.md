@@ -10,7 +10,7 @@ TwigBush is currently in early development with no official releases yet. You'll
 
 ## Prerequisites
 
-- [Go](https://golang.org/dl/) 1.19 or later
+- [Go](https://golang.org/dl/) 1.22 or later
 - Git
 
 ## Building from Source
@@ -172,7 +172,7 @@ We welcome contributions to TwigBush! This guide will help you get started.
 ## Development Setup
 
 ### Prerequisites
-- Go 1.19 or later
+- Go 1.22 or later
 - Git
 
 ### Local Development
@@ -349,7 +349,6 @@ Create `~/.twigbush/config.yaml` and generate a default key for development.
 ```shell script
 twigbush init [flags]
 ```
-
 
 ## Description
 
