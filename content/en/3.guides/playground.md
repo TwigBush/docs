@@ -2,7 +2,7 @@
 title: GNAP Playground
 description: Experiment with GNAP grants, device codes, and access flows in a safe demo environment. Perfect for learning how authorization works without setting up a full deployment.
 navigation:
-  icon: i-lucide-terminal
+  icon: i-lucide-flask-conical
 ---
 # TwigBush Playground Demo
 
