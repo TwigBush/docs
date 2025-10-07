@@ -93,23 +93,26 @@ twigbush run
 This starts both servers on default settings:
 ```bash
 $ twigbush run
-Starting AS on port 8085 ...
-Starting Playground on port 8088 ...
+./dist/twigbush run
+Starting authorization server from: /Users/<username>/TwigBush/dist/as
+Starting playground from: /Users/<username>/TwigBush/dist/playground
 ```
 
 ## Basic Commands
 
 ### Key Management
+** NOTE ** The following commands are still under development. We'd love your help!
 ```shell script
 # List available keys
 twigbush keys list
 
 # Generate a new key
-twigbush keys generate
+twigbush keys new
 ```
 
 
 ### Authorization Server Operations
+** NOTE ** The following commands are still under development. We'd love your help!
 ```shell script
 # Get AS configuration
 twigbush as config
@@ -120,6 +123,7 @@ twigbush as status
 
 
 ### Grant Operations
+** NOTE ** The following commands are still under development. We'd love your help!
 ```shell script
 # Create a new grant
 twigbush grant create
@@ -249,7 +253,6 @@ twigbush run
 ```
 ## 2. Update Navigation
 
-<llm-snippet-file>nuxt.config.ts</llm-snippet-file>
 ```
 typescript
 // ... existing code ...
