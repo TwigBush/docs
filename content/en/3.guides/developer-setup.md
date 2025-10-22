@@ -109,7 +109,7 @@ twigbush keys list
 # Generate a new key
 twigbush keys new
 ```
-
+For complete key management documentation, see [Key Operations](/docs/guides/key-operations).
 
 ### Authorization Server Operations
 ** NOTE ** The following commands are still under development. We'd love your help!
